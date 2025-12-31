@@ -11,9 +11,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
-
-# Outputs / temporales
-tmp/
-outputs/
-
-.venv/
